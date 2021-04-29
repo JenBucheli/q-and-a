@@ -3,3 +3,9 @@ fe07fe,::1,GET,http://project.localhost/,1619605069,,200
 10fda1,::1,GET,http://project.localhost/question,1619605255,3aabc4,404
 3aabc4,::1,GET,http://project.localhost/question,1619605255,,404
 04ab9a,::1,GET,http://project.localhost/questions,1619605272,,200
+02d5e4,::1,GET,http://qanda.localhost/,1619706021,,200
+be6904,::1,GET,http://qanda.localhost/favicon.ico,1619706022,ca9945,404
+ca9945,::1,GET,http://qanda.localhost/favicon.ico,1619706022,,404
+8340ee,::1,GET,http://qanda.localhost/question,1619706063,c38755,404
+c38755,::1,GET,http://qanda.localhost/question,1619706063,,404
+c68ead,::1,GET,http://qanda.localhost/questions,1619706073,,200
